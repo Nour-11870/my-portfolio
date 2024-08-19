@@ -1,0 +1,14 @@
+body{
+    color:black;
+    background-color: rgb(190, 47, 47);
+}
+nav {
+    background-color: bisque;}
+    
+nav a{
+    color:black ;
+    padding: 10px 20px;
+    font-size: 15px;
+    margin-left: 15%;
+    text-decoration: none;
+}
